@@ -83,6 +83,5 @@ virtualenv==20.4.6
 virtualenv-clone==0.5.4
 whitenoise==5.2.0
 wikipedia==1.4.0
-windows-curses==2.2.0
 wrapt==1.12.1
 yarl==1.6.3
