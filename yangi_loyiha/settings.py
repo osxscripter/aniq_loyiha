@@ -25,12 +25,10 @@ SECRET_KEY = 'pi$c@mptf$(81v$@6a9fbqdzwe_xv_@3vee!)ltnu)))67o3bm'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1', 'gamerstatistics.heroku.com']
 
-# SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
 
-ALLOWED_HOSTS = []
+
 
 
 # Application definition
